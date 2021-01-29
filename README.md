@@ -1,4 +1,1 @@
-哈希表
-serach(key) : 返回key是否在hash_map中
-del(key)    : 删除key，若不在hash_map中报错
-get_key()   : 返回所有的key
+大家如果有什么更好的哈希函数可以提交哦～
