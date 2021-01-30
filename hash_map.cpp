@@ -49,7 +49,7 @@ void hash_map::del(int key) {
 			return;
 		}
 	}
-	cout << key << "����hash_map��";
+	cout << key << "不在hash_map中";
 	abort();
 }
 
